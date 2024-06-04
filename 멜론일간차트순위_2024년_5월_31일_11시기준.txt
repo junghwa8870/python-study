@@ -1,0 +1,101 @@
+#순위  #가수명      #앨범명                #노래 제목              
+1	aespa	Armageddon - The 1st Album	Supernova
+2	NewJeans	How Sweet	How Sweet
+3	NewJeans	How Sweet	Bubble Gum
+4	지코 (ZICO)	SPOT!	SPOT! (feat. JENNIE)
+5	이클립스 (ECLIPSE)	선재 업고 튀어 OST Part 1	소나기
+6	IVE (아이브)	IVE SWITCH	해야 (HEYA)
+7	QWER	1st Mini Album 'MANITO'	고민중독
+8	아일릿(ILLIT)	SUPER REAL ME	Magnetic
+9	(여자)아이들	2	나는 아픈 건 딱 질색이니까
+10	aespa	Armageddon - The 1st Album	Armageddon
+11	Crush	눈물의 여왕 OST Part.4	미안해 미워해 사랑해
+12	TWS (투어스)	TWS 1st Mini Album ‘Sparkling Blue’	첫 만남은 계획대로 되지 않아
+13	이창섭	천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))	천상연
+14	DAY6 (데이식스)	The Book of Us : Gravity	한 페이지가 될 수 있게
+15	BABYMONSTER	BABYMONS7ER	SHEESH
+16	임영웅	신사와 아가씨 OST Part.2	사랑은 늘 도망가
+17	DAY6 (데이식스)	Every DAY6 February	예뻤어
+18	아이유	The Winning	Love wins all
+19	임영웅	IM HERO	우리들의 블루스
+20	임영웅	온기	온기
+21	이무진	에피소드	에피소드
+22	비비 (BIBI)	밤양갱	밤양갱
+23	임영웅	모래 알갱이	모래 알갱이
+24	임영웅	온기	Home
+25	임재현	비의 랩소디	비의 랩소디
+26	임영웅	IM HERO	다시 만날 수 있을까
+27	임영웅	Do or Die	Do or Die
+28	임영웅	내일은 미스터트롯 우승자 특전곡	이제 나만 믿어요
+29	NewJeans	NewJeans 1st EP 'New Jeans'	Hype Boy
+30	임영웅	IM HERO	무지개
+31	임영웅	Polaroid	London Boy
+32	임영웅	Polaroid	Polaroid
+33	세븐틴 (SEVENTEEN)	SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'	MAESTRO
+34	너드커넥션 (Nerd Connection)	그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))	그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))
+35	임영웅	IM HERO	인생찬가
+36	DAY6 (데이식스)	Fourever	Welcome to the Show
+37	태연 (TAEYEON)	To. X - The 5th Mini Album	To. X
+38	aespa	Drama - The 4th Mini Album	Drama
+39	유회승 (엔플라잉)	선재 업고 튀어 OST Part 6	그랬나봐
+40	정국	Seven (feat. Latto) - Clean Ver.	Seven (feat. Latto) - Clean Ver.
+41	임영웅	IM HERO	연애편지
+42	IVE (아이브)	I've IVE	I AM
+43	NewJeans	NewJeans 2nd EP 'Get Up'	ETA
+44	박재정	1집 Alone	헤어지자 말해요
+45	NewJeans	NewJeans 2nd EP 'Get Up'	Super Shy
+46	10CM	선재 업고 튀어 OST Part 8	봄눈
+47	LE SSERAFIM (르세라핌)	EASY	EASY
+48	멜로망스	사랑인가 봐 (사내맞선 OST 스페셜 트랙)	사랑인가 봐
+49	NewJeans	NewJeans 'OMG'	Ditto
+50	임영웅	IM HERO	보금자리
+51	LE SSERAFIM (르세라핌)	EASY	Smart
+52	순순희 (지환)	슬픈 초대장	슬픈 초대장
+53	tripleS (트리플에스)	〈ASSEMBLE24〉	Girls Never Die
+54	성시경	별에서 온 그대 OST Part.7	너의 모든 순간
+55	aespa	MY WORLD - The 3rd Mini Album	Spicy
+56	범진	인사	인사
+57	RIIZE	Love 119	Love 119
+58	KISS OF LIFE	Midas Touch	Midas Touch
+59	LE SSERAFIM (르세라핌)	Perfect Night	Perfect Night
+60	NewJeans	NewJeans 1st EP 'New Jeans'	Attention
+61	PLAVE	ASTERUM : 134-1	WAY 4 LUV
+62	NewJeans	NewJeans 'OMG'	OMG
+63	IVE (아이브)	IVE SWITCH	Accendio
+64	VIVIZ (비비지)	The 4th Mini Album 'VERSUS'	MANIAC
+65	아일릿(ILLIT)	SUPER REAL ME	Lucky Girl Syndrome
+66	이클립스 (ECLIPSE)	선재 업고 튀어 OST Part 1	Run Run
+67	이무진	청혼하지 않을 이유를 못 찾았어	청혼하지 않을 이유를 못 찾았어
+68	우디 (Woody)	사막에서 꽃을 피우듯	사막에서 꽃을 피우듯
+69	부석순 (SEVENTEEN)	부석순 1st Single Album 'SECOND WIND'	파이팅 해야지 (Feat. 이영지)
+70	태연 (TAEYEON)	웰컴투 삼달리 OST Part.3	꿈
+71	(여자)아이들	I feel	퀸카 (Queencard)
+72	AKMU (악뮤)	Love Lee	Love Lee
+73	방탄소년단	Dynamite (DayTime Version)	Dynamite
+74	아이유	The Winning	홀씨
+75	폴킴	'키스 먼저 할까요?' OST Part.3	모든 날, 모든 순간 (Every day, Every Moment)
+76	잔나비	전설	주저하는 연인들을 위해
+77	방탄소년단	YOU NEVER WALK ALONE	봄날
+78	RIIZE	Get A Guitar	Get A Guitar
+79	윤하 (YOUNHA)	YOUNHA 6th Album Repackage 'END THEORY : Final Edition'	사건의 지평선
+80	IVE (아이브)	LOVE DIVE	LOVE DIVE
+81	세븐틴 (SEVENTEEN)	SEVENTEEN 10th Mini Album ‘FML'	손오공
+82	AKMU (악뮤)	항해	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+83	김민석	취중고백	취중고백
+84	Charlie Puth	CHARLIE	I Don't Think That I Like Her
+85	PLAVE	ASTERUM : 134-1	우리 영화
+86	RIIZE	RIIZING	Impossible
+87	순순희(기태)	그대가 내 안에 박혔다(그내박)	그대가 내 안에 박혔다(그내박)
+88	로이킴	잘 지내자, 우리 (여름날 우리 X 로이킴)	잘 지내자, 우리 (여름날 우리 X 로이킴)
+89	경서예지	다정히 내 이름을 부르면 (경서예지 x 전건호)	다정히 내 이름을 부르면
+90	세븐틴 (SEVENTEEN)	SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'	청춘찬가
+91	민니 ((여자)아이들)	선재 업고 튀어 OST Part 3	꿈결같아서
+92	제니 (JENNIE)	JENNIE Special Single [You & Me]	You & Me
+93	임한별	사랑하지 않아서 그랬어	사랑하지 않아서 그랬어
+94	DK(디셈버)	심(心)	심(心)
+95	PLAVE	ASTERUM : 134-1	From
+96	IVE (아이브)	I'VE MINE	Baddie
+97	RIIZE	RIIZING	Siren
+98	IVE (아이브)	I've IVE	Kitsch
+99	PLAVE	ASTERUM : 134-1	Watch Me Woo!
+100	(여자)아이들	2	Super Lady
